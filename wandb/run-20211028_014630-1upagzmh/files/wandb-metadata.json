@@ -1,0 +1,21 @@
+{
+    "os": "Linux-5.4.104+-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.7.12",
+    "heartbeatAt": "2021-10-28T01:46:34.797961",
+    "startedAt": "2021-10-28T01:46:30.003363",
+    "docker": null,
+    "gpu": "Tesla K80",
+    "gpu_count": 1,
+    "cpu_count": 2,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-ee7a4344-4400-431d-93ca-d197259a40bc.json"
+    ],
+    "state": "running",
+    "program": "Wandb VietnameseSentimentAnalyst.ipynb",
+    "colab": "https://colab.research.google.com/notebook#fileId=1kqWTBK02KMXXs9NBsB4b0W_WszbNJWbd",
+    "host": "173a225e8711",
+    "username": "root",
+    "executable": "/usr/bin/python3"
+}
